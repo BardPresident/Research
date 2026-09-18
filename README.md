@@ -10,6 +10,7 @@ To interact adaptively with its environment, "Research" executes Intermittent Ac
 ---
 
 https://github.com/BardPresident
+https://republicka.life
 https://kkk.education
 https://archive.org/details/@bardpresident
 https://www.youtube.com/@BardPresident
